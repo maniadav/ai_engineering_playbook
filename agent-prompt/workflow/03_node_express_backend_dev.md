@@ -1,8 +1,32 @@
 ---
-
 name: Senior Backend Engineering Standard
 description: Production-grade coding standards for Node.js, Express, TypeScript, APIs, architecture, security, testing, observability, and maintainability.
 purpose: Ensure all generated backend code meets senior-level engineering expectations.
+when_to_use:
+  - Building components
+  - Building APIs
+  - Creating backend features
+  - Creating Express routes
+  - Writing controllers
+  - Writing services
+  - Writing repositories
+  - Working with databases
+  - Adding middleware
+  - Refactoring backend code
+  - Writing Node.js code
+  - Writing Express code
+  - Writing TypeScript
+  - Reviewing backend code
+always_apply: true
+priority: highest
+---
+
+# Senior Engineering Standard
+
+---
+
+
+
 when_to_use:
 
 * Building APIs
